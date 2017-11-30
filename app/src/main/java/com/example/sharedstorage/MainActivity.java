@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String Name = "nameKey";
     public static final String Phone = "phoneKey";
     public static final String Email = "emailKey";
+    public static final String Email2 = "emailKey";
 
     SharedPreferences sharedpreferences;
 
